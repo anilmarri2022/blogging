@@ -32,14 +32,23 @@ For BACKEND :
    1. technologies: Node.js, Express.js, MongoDB,
    
    2. Pakages :"bcryptjs": "^2.4.3", = to bcrypt password
+   
     "cookie-parser": "^1.4.6", = to parse the code
+    
     "cors": "^2.8.5", = To connect from frontEnd to backEnd
+    
     "express": "^4.18.2", = Its Node.js Framework
+    
     "fs": "^0.0.1-security", = To handel files
+    
     "jsonwebtoken": "^9.0.0", = To Authenticate User
+    
     "mongoose": "^7.2.2", = To connect mongoDb
+    
     "multer": "^1.4.5-lts.1", = To upload files
+    
     "nodemon": "^2.0.22", = To run without restart
+    
     "react-router-dom": "^6.12.0" = To make routing
     
     
@@ -48,14 +57,23 @@ For BACKEND :
     1. technologies: HTML,CSS,JavaScript, React.js
     
     2.Pakages :   "@testing-library/jest-dom": "^5.16.5",
+    
     "@testing-library/react": "^13.4.0",
+    
     "@testing-library/user-event": "^13.5.0",
+    
     "date-fns": "^2.30.0", = To display date of user when he uploaded
+    
     "react": "^18.2.0", 
+    
     "react-dom": "^18.2.0", 
+    
     "react-quill": "^2.0.0", = To make user enter the text
+    
     "react-router-dom": "^6.12.0", = For routing
+    
     "react-scripts": "5.0.1",
+    
     "web-vitals": "^2.1.4"
     
     

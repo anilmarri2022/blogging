@@ -7,6 +7,7 @@ No once can edit his content, He also can't edit others content, He can edit or 
 step 2 : HOW to run it in your machine:
 
 For FrontEnd : "npm start" command we want to use
+
 For BackEnd : "npm start" we want to use
 
 step 3:Installation Instructions:
@@ -14,8 +15,11 @@ step 3:Installation Instructions:
      Anyone can install this app through clone https://github.com/anilmarri2022/blogging.git this url in their teminal
 like "git clone https://github.com/anilmarri2022/blogging.git"
      After cloning ther can run both frontend and backend by different terminals
+     
      1. client terminal we want to make command "npm start"
+     
      2. api terminal we want to make command "npm start"
+     
      
 step 4: USED TECHNOLOGIES
 

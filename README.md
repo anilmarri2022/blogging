@@ -113,7 +113,7 @@ Step 6 :
 
 Here I can declare that I did this project all by own ,
 
-If any functionality not working means its just some mistake,But Dont declare myself for that I can work 12 a day.
+If any functionality not working means its just some mistake,But Dont declare myself for that I can work 12hr per day.
 
 I can join immediately , I can Prove myself , I want a chance to prove myself
 
